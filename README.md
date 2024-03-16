@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudaidia" alt="mahmoudaidia" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/mahmoudaid50353" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mahmoudaid50353?logo=twitter&style=for-the-badge" alt="https://twitter.com/mahmoudaid50353" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mahmoudaid50353" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudaid50353?logo=twitter&style=for-the-badge" alt="mahmoudaid50353" /></a> </p>
 
 - 🔭 I’m currently working on [Admin Dashboard](https://github.com/MahmoudAidia/wild-oasis-react-app)
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/mahmoudaid50353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mahmoudaid50353" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-aidia-605298224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-aidia-605298224/" height="30" width="40" /></a>
+<a href="https://twitter.com/mahmoudaid50353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudaid50353" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-aidia-605298224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-aidia-605298224/" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://hashnode.com/@mahmoudaidia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@mahmoudaidia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mahmoudaidia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mahmoudaidia/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahmoudaidia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoudaidia/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
